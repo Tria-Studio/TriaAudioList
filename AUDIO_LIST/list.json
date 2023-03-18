@@ -1,4 +1,1382 @@
-{"0":{"name":"Dreamstate","id":5410083912,"artist":"Ephixa"}}
-
-
-
+{
+   "0":{
+      "name":"Dreamstate",
+      "artist":"Ephixa",
+      "id":5410083912
+   },
+   "1078411904919277588":{
+      "name":"Pain Engine (2021 - Remaster) (cut)",
+      "artist":"Waterflame",
+      "id":"12588098134"
+   },
+   "1078411228197703771":{
+      "name":"Evolution",
+      "artist":"Creo",
+      "id":"12588076306"
+   },
+   "1078410533839044758":{
+      "name":"Entanglement",
+      "artist":"celtix",
+      "id":"12588049831"
+   },
+   "1078111456182161418":{
+      "name":"Lines Fading (Cut)",
+      "artist":"Waterflame",
+      "id":"12580037303"
+   },
+   "1078110837761392671":{
+      "name":"PSYCHE II",
+      "artist":"KORAII",
+      "id":"12580018605"
+   },
+   "1078110100646019174":{
+      "name":"Avalanche",
+      "artist":"Creo",
+      "id":"12579998916"
+   },
+   "1078097243392987158":{
+      "name":"Operation: Evolution",
+      "artist":"Dimrain47",
+      "id":"12579985826"
+   },
+   "1078096273187553330":{
+      "name":"Chirality (\"Dissymmetric\" Long ver.)",
+      "artist":"Camellia(かめりあ)",
+      "id":"12579963431"
+   },
+   "1078091247018852493":{
+      "name":"WE ARE \\*NOT\\* CURZED",
+      "artist":"Camellia(かめりあ)",
+      "id":"12579501317"
+   },
+   "1075267149934891028":{
+      "name":"Cosmic Creamer",
+      "artist":"Djjaner",
+      "id":"12492807719"
+   },
+   "1075262633739026504":{
+      "name":"Explorers",
+      "artist":"Hinkik",
+      "id":"12492608247"
+   },
+   "1075075419147092129":{
+      "name":"Feral (cut)",
+      "artist":"Meganeko",
+      "id":"12486623451"
+   },
+   "1075075401682014268":{
+      "name":"Empress",
+      "artist":"KORAII",
+      "id":"12486649388"
+   },
+   "1075075385131278386":{
+      "name":"Scattered Faith (Cut)",
+      "artist":"Kurokotei",
+      "id":"12486740055"
+   },
+   "1075068962041233418":{
+      "name":"Badland (Warkauze Remix)",
+      "artist":"BoomKitty ",
+      "id":"12486575126"
+   },
+   "1074748167813345301":{
+      "name":"Step It",
+      "artist":"Shirobon",
+      "id":"12479002287"
+   },
+   "1074695472796672112":{
+      "name":"Betrayal of Fear (TeslaX VIP Remix)",
+      "artist":"Goukisan",
+      "id":"12477034058"
+   },
+   "1074695453846798376":{
+      "name":"Glorious Morning 2 (Cut)",
+      "artist":"Waterflame",
+      "id":"12476953673"
+   },
+   "1074680919295799316":{
+      "name":"LUNAR",
+      "artist":"folgorex øzcvr ",
+      "id":"12476907638"
+   },
+   "1074550257934930021":{
+      "name":"Disturbed Heart (Cut)",
+      "artist":"SPURME",
+      "id":"12474274391"
+   },
+   "1074550222698594334":{
+      "name":"Rush of Adrenaline",
+      "artist":"med556deluxe",
+      "id":"12474216094"
+   },
+   "1074550189295140874":{
+      "name":"Field of Memories 2",
+      "artist":"Waterflame",
+      "id":"12474295367"
+   },
+   "1074543155095031858":{
+      "name":"Nova",
+      "artist":"meganeko",
+      "id":"12474175819"
+   },
+   "1074543118084472852":{
+      "name":"Crystal Divine",
+      "artist":"RFA",
+      "id":"12474155943"
+   },
+   "1074543093531029594":{
+      "name":"Christmas Blues OST",
+      "artist":"RFA",
+      "id":"12474145040"
+   },
+   "1074543078523818044":{
+      "name":"Sanctuary",
+      "artist":"DMDOKURO ",
+      "id":"12474138743"
+   },
+   "1074543056226897920":{
+      "name":"Auroral Night (cut)",
+      "artist":"RFA",
+      "id":"12474103373"
+   },
+   "1074533888577249280":{
+      "name":"Igneous Rock (3-1 Hot)",
+      "artist":"DannyBStyles",
+      "id":"12474007445"
+   },
+   "1074533829378846821":{
+      "name":"Slow Down (cut)",
+      "artist":"Creo",
+      "id":"12473986609"
+   },
+   "1074532077229322290":{
+      "name":"Reflections (cut)",
+      "artist":"Creo",
+      "id":"12473963799"
+   },
+   "1074532034766192721":{
+      "name":"Thunderzone V2",
+      "artist":"Waterflame",
+      "id":"12473945371"
+   },
+   "1074532016269303818":{
+      "name":"Pictured as Perfect",
+      "artist":"Frums",
+      "id":"12473936352"
+   },
+   "1074523647986913391":{
+      "name":"Isolation (Vepium's LIMBO Remix)",
+      "artist":"Nighthawk22",
+      "id":"12473793715"
+   },
+   "1074520784934031422":{
+      "name":"The Falling Mysts",
+      "artist":"Dimrain47",
+      "id":"12473738217"
+   },
+   "1074519773397925959":{
+      "name":"FOX + Silentroom & Camellia Mashup",
+      "artist":"Shirobon",
+      "id":"12473686702"
+   },
+   "1074462831208038410":{
+      "name":"Cataclyzm",
+      "artist":"REQUiRE",
+      "id":"12472176612"
+   },
+   "1073594801775181875":{
+      "name":"Flood Race",
+      "artist":"med556music",
+      "id":"12439679382"
+   },
+   "1073594780837232650":{
+      "name":"Reverie",
+      "artist":"EspiDev",
+      "id":"12439699927"
+   },
+   "1066924233260794017":{
+      "name":"Advancer",
+      "artist":"Waterflame",
+      "id":"12245585351"
+   },
+   "1066924212310253648":{
+      "name":"Snowy Breakout",
+      "artist":"Yozy",
+      "id":"12245563081"
+   },
+   "1066924195692413018":{
+      "name":"Red Sector-Facility",
+      "artist":"RFA",
+      "id":"12245554998"
+   },
+   "1066924175190659123":{
+      "name":"My Itinerary",
+      "artist":"TokyoMusic Walker ",
+      "id":"12245541717"
+   },
+   "1066924150838526022":{
+      "name":"Iris",
+      "artist":"Tallure",
+      "id":"12245509451"
+   },
+   "1066924030642368552":{
+      "name":"Sparkler (full version)",
+      "artist":"Djjaner",
+      "id":"12244427589"
+   },
+   "1040228862585491598":{
+      "name":"R- Fury of the God-Consuming Heretic",
+      "artist":"Deemo",
+      "id":"11518552420"
+   },
+   "1040228515334852648":{
+      "name":"Running From Demons (cut)",
+      "artist":"Waterflame",
+      "id":"11518543817"
+   },
+   "1040228042758443050":{
+      "name":"Nhelv (Full Version, 2020 Remaster)",
+      "artist":"Silentroom",
+      "id":"11518531738"
+   },
+   "1040227536707276880":{
+      "name":"777- Life is Awesome",
+      "artist":"F",
+      "id":"11518516288"
+   },
+   "1040226652229214269":{
+      "name":"Get Dat",
+      "artist":"Righten",
+      "id":"11518499706"
+   },
+   "1040226381180702760":{
+      "name":"PSYCHE I",
+      "artist":"KORAII",
+      "id":"11518491730"
+   },
+   "1040225267563647069":{
+      "name":"XNOR XNOR XNOR (cut)",
+      "artist":"Frums",
+      "id":"11518465222"
+   },
+   "1039228919267733594":{
+      "name":"Octane",
+      "artist":"Creo",
+      "id":"11495600551"
+   },
+   "1038794428539744317":{
+      "name":"Hello (BPM) 2021",
+      "artist":"Camellia",
+      "id":"11484915397"
+   },
+   "1038401387958108281":{
+      "name":"The falling mysts (cut)",
+      "artist":"Dimrain47",
+      "id":"11472865333"
+   },
+   "1038401331448270878":{
+      "name":"#1f1e33 (Uaaaaak's piano version)",
+      "artist":"Camellia",
+      "id":"11472847636"
+   },
+   "1038192116523880488":{
+      "name":"Idyllic",
+      "artist":"WispX ",
+      "id":"11467469052"
+   },
+   "1038192097175543848":{
+      "name":"GANGIMARI",
+      "artist":"WaxTerK",
+      "id":"11467462726"
+   },
+   "1037745343070228512":{
+      "name":"Santa-chan's Winter Wonderland Adventure (Cut)",
+      "artist":"nstryder",
+      "id":"11457382874"
+   },
+   "1037728138974740560":{
+      "name":"RetroFuture",
+      "artist":"RFA",
+      "id":"11456951519"
+   },
+   "1037722155909124179":{
+      "name":"Enigma",
+      "artist":"Creo",
+      "id":"11456814377"
+   },
+   "1037721478415777923":{
+      "name":"Waterflame",
+      "artist":"TimeMachine 2 ",
+      "id":"11456797328"
+   },
+   "1037102183012900864":{
+      "name":"Snowy Peaks Side-B OST",
+      "artist":"DominoContributing",
+      "id":"11444215794"
+   },
+   "1037101509420269659":{
+      "name":"20.000",
+      "artist":"ColBreakz",
+      "id":"11444193712"
+   },
+   "1037100418028818584":{
+      "name":"Ode To Joy (Orchestral Cover)",
+      "artist":"CarlosAlvarez ",
+      "id":"11444166209"
+   },
+   "1037098549596393515":{
+      "name":"Epic Dark Battle Music - Escape",
+      "artist":"Ebunny",
+      "id":"11444112775"
+   },
+   "1037097722622251098":{
+      "name":"Shirobon",
+      "artist":"Xilioh",
+      "id":"11444086241"
+   },
+   "1037094963932037161":{
+      "name":"Жужжалка76",
+      "artist":"Camellia",
+      "id":"11444006913"
+   },
+   "1037092301610160129":{
+      "name":"Revolution",
+      "artist":"Kaixo",
+      "id":"11443925191"
+   },
+   "1037091410735804477":{
+      "name":"Flamewall",
+      "artist":"Camellia",
+      "id":"11443900666"
+   },
+   "1037089569771901038":{
+      "name":"Invaders",
+      "artist":"Waterflame",
+      "id":"11457013430"
+   },
+   "1037089554970185748":{
+      "name":"re:カレント",
+      "artist":"Miyolophone",
+      "id":"11443829093"
+   },
+   "1037086814948827136":{
+      "name":"At the Speed of Light (cut)",
+      "artist":"Dimrain47",
+      "id":"11443769155"
+   },
+   "1037085768138633277":{
+      "name":"U.N.オーエンは彼女なのか？",
+      "artist":"MelodicTaste ",
+      "id":"11443735338"
+   },
+   "1037085129903964190":{
+      "name":"KIDS (cut)",
+      "artist":"Koraii",
+      "id":"11443718387"
+   },
+   "1037083667127869560":{
+      "name":"Exit This Earth's Atmosphere (cut)",
+      "artist":"Camellia",
+      "id":"11443675146"
+   },
+   "1037083042331771040":{
+      "name":"Pagoda",
+      "artist":"Xomu& Amidst ",
+      "id":"11443656588"
+   },
+   "1037082206184681642":{
+      "name":"Lavender Town Haunting",
+      "artist":"Solkrieg",
+      "id":"11443624750"
+   },
+   "1037080801759731793":{
+      "name":"Reflections (cut)",
+      "artist":"Creo",
+      "id":"11443583524"
+   },
+   "1037080405188284547":{
+      "name":"Solfeggietto",
+      "artist":"Thaehan",
+      "id":"11443576791"
+   },
+   "1037077509218508880":{
+      "name":"EGO",
+      "artist":"Koraii",
+      "id":"11443476106"
+   },
+   "1037077271762174002":{
+      "name":"Le Calme (intro cut)",
+      "artist":"Sunhiausa",
+      "id":"11443203947"
+   },
+   "1023276931996712990":{
+      "name":"Doppelganger",
+      "artist":"LeaF",
+      "id":"11022187055"
+   },
+   "1019659100327514162":{
+      "name":"Beneath the Ruins OST",
+      "artist":"Crazyblox",
+      "id":"10911762701"
+   },
+   "1019657659227574333":{
+      "name":"Stalker",
+      "artist":"Waterflame",
+      "id":"10911726435"
+   },
+   "1019657627321507961":{
+      "name":"KIDS",
+      "artist":"KORAII",
+      "id":"10911666057"
+   },
+   "1019657603342684301":{
+      "name":"RetroGingle",
+      "artist":"RFA",
+      "id":"10911642313"
+   },
+   "1019657584933867520":{
+      "name":"Flow",
+      "artist":"Creo",
+      "id":"10911622667"
+   },
+   "1019652146251178066":{
+      "name":"Status Quo",
+      "artist":"Spaze",
+      "id":"10911576685"
+   },
+   "1019652108317884446":{
+      "name":"Clouds of Destiny",
+      "artist":"Lucasberry",
+      "id":"10911516881"
+   },
+   "1019652082313199626":{
+      "name":"Lush Remnant OST",
+      "artist":"Yozy",
+      "id":"10911197010"
+   },
+   "1019652044660940840":{
+      "name":"Racemization",
+      "artist":"Camellia",
+      "id":"10911101378"
+   },
+   "1019652005838454814":{
+      "name":"Infernoplex",
+      "artist":"Dimrain47",
+      "id":"10911024206"
+   },
+   "1019651960078606336":{
+      "name":"Gravity",
+      "artist":"Multex",
+      "id":"10910987494"
+   },
+   "1013902609565896744":{
+      "name":"Rock Thing",
+      "artist":"Creo",
+      "id":"10759778921"
+   },
+   "1011492477380853842":{
+      "name":"Moonlight Shores",
+      "artist":"JustenHawk",
+      "id":"10688231203"
+   },
+   "1011492442857549945":{
+      "name":"RockinBass Terminate",
+      "artist":"RFA",
+      "id":"10688223503"
+   },
+   "1011492426059358248":{
+      "name":"PLANET//SHAPER",
+      "artist":"Camellia",
+      "id":"10688215671"
+   },
+   "1011492407201779753":{
+      "name":"RESISTANCE",
+      "artist":"Meta",
+      "id":"10688194672"
+   },
+   "1011492359906803823":{
+      "name":"Never Make It",
+      "artist":"Creo",
+      "id":"10688175850"
+   },
+   "1011492342332653579":{
+      "name":"Midnight Mystery",
+      "artist":"Yozy",
+      "id":"10688162538"
+   },
+   "1011492326092320849":{
+      "name":"Blast Processing (geometry dash cut)",
+      "artist":"Waterflame",
+      "id":"10688146111"
+   },
+   "1011492310032330772":{
+      "name":"Supernova (Low pitched)",
+      "artist":"Xtrullor",
+      "id":"10688128501"
+   },
+   "1011492265908244550":{
+      "name":"MC952",
+      "artist":"Cheshyre",
+      "id":"10688115160"
+   },
+   "1011492211738808411":{
+      "name":"Lightmare",
+      "artist":"Creo",
+      "id":"10688084760"
+   },
+   "1011492158848651325":{
+      "name":"Nothingness",
+      "artist":"Sunhiausa",
+      "id":"10688076444"
+   },
+   "1011492093123895316":{
+      "name":"Dark Industry Remaster Demo",
+      "artist":"RFA",
+      "id":"10688046851"
+   },
+   "1011492078578053150":{
+      "name":"Nakirus",
+      "artist":"BrayanKitsn",
+      "id":"10688037148"
+   },
+   "1011492056243384350":{
+      "name":"Feelin' Better",
+      "artist":"Waterflame",
+      "id":"10688020086"
+   },
+   "1011479212915437568":{
+      "name":"Rememberance (classic pursuit remix)",
+      "artist":"Ketoseand Forle ",
+      "id":"10688001217"
+   },
+   "1011478563976912998":{
+      "name":"Chaoz Japan",
+      "artist":"ParagonX9",
+      "id":"10687975256"
+   },
+   "1011478543068303380":{
+      "name":"Carnivores",
+      "artist":"Creo",
+      "id":"10687963823"
+   },
+   "1011478525091516446":{
+      "name":"Sakura Heaven",
+      "artist":"Yozy",
+      "id":"10687941298"
+   },
+   "1011478505395081296":{
+      "name":"Mystery",
+      "artist":"Yozy",
+      "id":"10687934233"
+   },
+   "1011478487661547520":{
+      "name":"Magma Chambers OST",
+      "artist":"MADB0SS",
+      "id":"10687919949"
+   },
+   "1011478469672181802":{
+      "name":"Laboratory Destruction",
+      "artist":"Yozy",
+      "id":"10687908290"
+   },
+   "1011478449791180880":{
+      "name":"Winter Solstice",
+      "artist":"Waterflame",
+      "id":"10687890339"
+   },
+   "1011478423576772700":{
+      "name":"The Mast Threat Theme",
+      "artist":"snoodle",
+      "id":"10687880867"
+   },
+   "1009875599017398344":{
+      "name":"[U.U.F.O.] Tr.01 Mystery Circles Ultra / U.U.F.O.",
+      "artist":"Camellia",
+      "id":"10637389607"
+   },
+   "1006276535973584997":{
+      "name":"Terraria Calamity Mod Music - \"Antarctic Reinforcement\" - Theme of Cryogen",
+      "artist":"DMDOKURO ",
+      "id":"10525688629"
+   },
+   "1006276525974376559":{
+      "name":"Quaoar",
+      "artist":"Camellia",
+      "id":"10525636657"
+   },
+   "1006276509054541895":{
+      "name":"777- Wander of Thought",
+      "artist":"F",
+      "id":"10525615943"
+   },
+   "1006260737733316648":{
+      "name":"The Devil",
+      "artist":"RokNardin ",
+      "id":"10525025683"
+   },
+   "1006260682599182426":{
+      "name":"Place On Fire",
+      "artist":"Creo",
+      "id":"10525000064"
+   },
+   "1006260646104539136":{
+      "name":"the_dril [wip version]",
+      "artist":"RFA",
+      "id":"10524961621"
+   },
+   "1006260634058490046":{
+      "name":"CONNECT",
+      "artist":"KORAII",
+      "id":"10524926460"
+   },
+   "1006260583475200060":{
+      "name":"Pathways",
+      "artist":"RFA",
+      "id":"10524882247"
+   },
+   "1006260564600819772":{
+      "name":"flying in the flow of deep-sea",
+      "artist":"Camellia",
+      "id":"10524854177"
+   },
+   "1006260543998394490":{
+      "name":"Edge of Tomorrow ",
+      "artist":"TeknoAXE",
+      "id":"10524799887"
+   },
+   "1006260528135536640":{
+      "name":"Seasons",
+      "artist":"Yozy",
+      "id":"10524760041"
+   },
+   "1006260486901338122":{
+      "name":"In Circles",
+      "artist":"Creo",
+      "id":"10524736386"
+   },
+   "1006260468689678366":{
+      "name":"Red Horizon",
+      "artist":"Creo",
+      "id":"10524687305"
+   },
+   "1006260439920939039":{
+      "name":"Boundless",
+      "artist":"Waterflame",
+      "id":"10524652963"
+   },
+   "1006260419507257384":{
+      "name":"Plutonic Base REMASTERED [OST]",
+      "artist":"Beta",
+      "id":"10524627050"
+   },
+   "1003133913729876138":{
+      "name":"GHOUL",
+      "artist":"Camellia",
+      "id":"10423045185"
+   },
+   "1003132088012259338":{
+      "name":"WORM RAVE (DM DOKURO REMIX)",
+      "artist":"metaroom",
+      "id":"10422987874"
+   },
+   "995675610875707513":{
+      "name":"Control: Sentiment (arctic lab cut)",
+      "artist":"Waterflame",
+      "id":"10178003628"
+   },
+   "995656563199066142":{
+      "name":"For The Taking",
+      "artist":"NK",
+      "id":"10177138204"
+   },
+   "993619914894082109":{
+      "name":"Tempestissimo",
+      "artist":"t+pazolite",
+      "id":"10117794995"
+   },
+   "993593893734072391":{
+      "name":"Flawless Wings of Yatagarasu",
+      "artist":"Gis",
+      "id":"10116912877"
+   },
+   "993593871869161523":{
+      "name":"Clouds in the Blue",
+      "artist":"Camellia",
+      "id":"10116843801"
+   },
+   "993593852181102602":{
+      "name":"Endless",
+      "artist":"Creo",
+      "id":"10116822149"
+   },
+   "993593818949615686":{
+      "name":"Greenest Grass",
+      "artist":"Waterflame",
+      "id":"10116796420"
+   },
+   "993593796539469934":{
+      "name":"Boneyard (cut)",
+      "artist":"Waterflame",
+      "id":"10116757463"
+   },
+   "993265285354242088":{
+      "name":"ID",
+      "artist":"Crazyblox",
+      "id":"10108046108"
+   },
+   "993264685803642880":{
+      "name":"Space Pirates",
+      "artist":"Waterflame",
+      "id":"10108009471"
+   },
+   "993264667063500902":{
+      "name":"Lunatic Mines",
+      "artist":"Rob07erto",
+      "id":"10107990634"
+   },
+   "993264648755359834":{
+      "name":"DISTORTION",
+      "artist":"KORAII",
+      "id":"10107985657"
+   },
+   "993264544166182933":{
+      "name":"Sky Fortress (cut)",
+      "artist":"Waterflame",
+      "id":"10107945688"
+   },
+   "993264523614097570":{
+      "name":"Summit",
+      "artist":"Creo",
+      "id":"10107902205"
+   },
+   "993264495474511892":{
+      "name":"Umbra (cut)",
+      "artist":"Shirobon",
+      "id":"10107879396"
+   },
+   "993264474259738645":{
+      "name":" путь льда(put' l'da) ",
+      "artist":"Camellia",
+      "id":"10107838582"
+   },
+   "993264451094585365":{
+      "name":"Terraria Calamity Mod Music - \"Guardian of The Former Seas\" - Theme of Desert Scourge",
+      "artist":"DMDOKURO",
+      "id":"10107789079"
+   },
+   "993264427992359093":{
+      "name":"Exit This Earth's Atomosphere (cut)",
+      "artist":"Camellia",
+      "id":"10107764083"
+   },
+   "993264402746855505":{
+      "name":"Deception (cut)",
+      "artist":"Spaze",
+      "id":"10107750973"
+   },
+   "993264319557009478":{
+      "name":"Dark Neon",
+      "artist":"Rob07erto",
+      "id":"10107726854"
+   },
+   "993264295095844954":{
+      "name":"Final Battle",
+      "artist":"Waterflame",
+      "id":"10107670180"
+   },
+   "993264272878616676":{
+      "name":"Body F10ating in the Zero Gravity Space",
+      "artist":"Camellia",
+      "id":"10107647883"
+   },
+   "993264254830518302":{
+      "name":"Digital Labs",
+      "artist":"Rob07erto",
+      "id":"10107612818"
+   },
+   "993264228528029707":{
+      "name":"We're Finally Landing",
+      "artist":"HOME",
+      "id":"10107600512"
+   },
+   "993264204586959019":{
+      "name":"Marenol",
+      "artist":"LeaF",
+      "id":"10107583582"
+   },
+   "986806629783728159":{
+      "name":"for the DELTA",
+      "artist":"Camellia",
+      "id":"9923599661"
+   },
+   "985685411605139456":{
+      "name":"Stardust",
+      "artist":"Geoxor",
+      "id":"9895075587"
+   },
+   "985685383562022952":{
+      "name":"Control: Damage",
+      "artist":"Waterflame",
+      "id":"9895023695"
+   },
+   "985685361541918730":{
+      "name":"Moonstone Madness OST",
+      "artist":"Rob07erto/MysticalRoberto",
+      "id":"9894995157"
+   },
+   "985685341447020574":{
+      "name":"Rivals",
+      "artist":"Waterflame",
+      "id":"9894984676"
+   },
+   "984158893120839800":{
+      "name":"Running From Demons",
+      "artist":"Waterflame",
+      "id":"9855044402"
+   },
+   "983028639836807258":{
+      "name":"The Gateway OST",
+      "artist":"Rob07erto",
+      "id":"9827607146"
+   },
+   "983028630030549054":{
+      "name":"Rob07erto– Theory Realm OST",
+      "artist":"Rob07erto",
+      "id":"9827595910"
+   },
+   "982973232120471612":{
+      "name":"GHOST (2020 Halloween+++++++++ VIP) ",
+      "artist":"Camellia",
+      "id":"9825817288"
+   },
+   "982817538255769620":{
+      "name":"Primatus",
+      "artist":"SchizoidBears ",
+      "id":"9821880475"
+   },
+   "982752877766385734":{
+      "name":"Meltdown",
+      "artist":"Waterflame",
+      "id":"9820115363"
+   },
+   "982752591261876244":{
+      "name":"Afterburners",
+      "artist":"Waterflame",
+      "id":"9820099982"
+   },
+   "982736532714692669":{
+      "name":"Lunar Abyss",
+      "artist":"Lchavasse",
+      "id":"9819570873"
+   },
+   "982736524279947294":{
+      "name":"Fingerdash",
+      "artist":"MDK",
+      "id":"9819592370"
+   },
+   "982736504877113415":{
+      "name":"NUCLEOSYNTHESIZER",
+      "artist":"EGGPRIEST",
+      "id":"9819593887"
+   },
+   "982734182608429106":{
+      "name":"Blast Processing (Cut)",
+      "artist":"Waterflame",
+      "id":"9819528662"
+   },
+   "982722298471657482":{
+      "name":"Electroman Adventures V2",
+      "artist":"Waterflame",
+      "id":"9819122740"
+   },
+   "982722281027551253":{
+      "name":"DayDreamer",
+      "artist":"F777",
+      "id":"9819095518"
+   },
+   "982722261192695829":{
+      "name":"Photon Carnage (Bonus)",
+      "artist":"DanTerminus",
+      "id":"9819064182"
+   },
+   "982722242926493696":{
+      "name":"Blacklight (Full)",
+      "artist":"NIGHTkilla",
+      "id":"9818989490"
+   },
+   "982722226828738590":{
+      "name":"Adrenaline",
+      "artist":"Creo",
+      "id":"9818948633"
+   },
+   "982722209531433021":{
+      "name":"GHOST",
+      "artist":"Camellia",
+      "id":"9818895231"
+   },
+   "982722197460242542":{
+      "name":"Airborne Robots",
+      "artist":"F777",
+      "id":"9818831934"
+   },
+   "982722177436614706":{
+      "name":"Nautilus",
+      "artist":"Creo",
+      "id":"9818776601"
+   },
+   "982722160072196157":{
+      "name":"Shadows of cats",
+      "artist":"Camellia",
+      "id":"9818652754"
+   },
+   "982722144838483988":{
+      "name":"Rock Thing",
+      "artist":"Creo",
+      "id":"9818610404"
+   },
+   "982722126727495741":{
+      "name":"Hyxla Prison OST",
+      "artist":"Rob07erto",
+      "id":"9818565032"
+   },
+   "982722111888064542":{
+      "name":"Exosphere",
+      "artist":"Creo",
+      "id":"9818519697"
+   },
+   "982722096578834462":{
+      "name":"Thunderzone V2 (Cut)",
+      "artist":"Waterflame",
+      "id":"9818458459"
+   },
+   "982722079063408701":{
+      "name":"Dreamless Wanderer (Cut)",
+      "artist":"Camellia",
+      "id":"9818430012"
+   },
+   "982722061757710436":{
+      "name":"03 Adrenaline",
+      "artist":"somanylynx",
+      "id":"9818383735"
+   },
+   "975472266727022702":{
+      "name":"Ghost Train",
+      "artist":"Waterflame",
+      "id":"9641063393"
+   },
+   "975470041107681300":{
+      "name":"Vibing in the 20s",
+      "artist":"ContextSensitive ",
+      "id":"9640988881"
+   },
+   "975470021121814609":{
+      "name":"Aspiration (VIP Mix)",
+      "artist":"Ardolf",
+      "id":"9640967513"
+   },
+   "975470002801106964":{
+      "name":"Control: Sentiment (FDS V3 Cut)",
+      "artist":"Waterflame",
+      "id":"9640887233"
+   },
+   "975469980948766790":{
+      "name":"Haunted Woods",
+      "artist":"Waterflame",
+      "id":"9640840783"
+   },
+   "975469954038112296":{
+      "name":"The World Revolving [Artcore Remix]",
+      "artist":"Deltarune",
+      "id":"9640775939"
+   },
+   "975469934719160370":{
+      "name":"The Void OST",
+      "artist":"Rob07erto",
+      "id":"9640737090"
+   },
+   "975469917098877028":{
+      "name":"Body Jammer",
+      "artist":"Waterflame",
+      "id":"9640695226"
+   },
+   "975469899046613072":{
+      "name":"Chaotic",
+      "artist":"Waterflame",
+      "id":"9640640422"
+   },
+   "975469881673785384":{
+      "name":"Terraria Calamity Mod Music - \"1NF3S+@+!0N\" - Theme of Crabulon",
+      "artist":"DMDOKURO ",
+      "id":"9640614635"
+   },
+   "975469867190861858":{
+      "name":"Apex",
+      "artist":"Creo",
+      "id":"9640427207"
+   },
+   "9640389205":{
+      "name":"Eurobeat Remix",
+      "artist":"AmongUs ",
+      "id":"9640389205"
+   },
+   "975469833787416616":{
+      "name":"Pathways Ost",
+      "artist":"Rob07erto",
+      "id":"9640355384"
+   },
+   "975469818385928222":{
+      "name":"Fright March",
+      "artist":"cYsmix",
+      "id":"9640335865"
+   },
+   "975469798035169380":{
+      "name":"Virtuality Revitalized OST",
+      "artist":"MADB0SS",
+      "id":"9640258052"
+   },
+   "975469774907777076":{
+      "name":"Before The Night",
+      "artist":"HOME",
+      "id":"9640228372"
+   },
+   "975469758365466674":{
+      "name":"Granite",
+      "artist":"Shirobon",
+      "id":"9640105852"
+   },
+   "975469738249576478":{
+      "name":"Dark Lights",
+      "artist":"SM123",
+      "id":"9640063964"
+   },
+   "975469718523772928":{
+      "name":"Get smooshed!",
+      "artist":"Cursedsnake",
+      "id":"9639960116"
+   },
+   "975469696558182411":{
+      "name":"Grind District",
+      "artist":"Waterflame",
+      "id":"9639870533"
+   },
+   "975469675536334868":{
+      "name":"Epilogue",
+      "artist":"Creo",
+      "id":"9639703864"
+   },
+   "967578962119262208":{
+      "name":"RFA - 5.4",
+      "artist":"Rob07erto",
+      "id":"9450970211"
+   },
+   "967576557927403571":{
+      "name":"Wizdomiot",
+      "artist":"LeaF",
+      "id":"9450877223"
+   },
+   "967576542827937792":{
+      "name":"High Sky",
+      "artist":"Wubbix",
+      "id":"9450818072"
+   },
+   "967576523001454672":{
+      "name":"Worlds",
+      "artist":"Creo",
+      "id":"9450790756"
+   },
+   "967576506203254834":{
+      "name":"Alice in Misanthrope",
+      "artist":"LeaF",
+      "id":"9450767612"
+   },
+   "967576484451581982":{
+      "name":"Aura",
+      "artist":"Creo",
+      "id":"9450721484"
+   },
+   "967576469322752020":{
+      "name":"Crystal Corruption [Nightcore Edit]",
+      "artist":"liaquo",
+      "id":"9450694246"
+   },
+   "967576452293873684":{
+      "name":"Keep Going",
+      "artist":"Waterflame",
+      "id":"9450672786"
+   },
+   "967576432442232843":{
+      "name":"Village up north",
+      "artist":"Waterflame",
+      "id":"9450653014"
+   },
+   "967576410459897876":{
+      "name":"Tower Climb",
+      "artist":"thundershocker1",
+      "id":"9450628525"
+   },
+   "967576396488654859":{
+      "name":"Castlebreak (2012)",
+      "artist":"Waterflame",
+      "id":"9450545229"
+   },
+   "967576364192518164":{
+      "name":"Tria",
+      "artist":"Xtrullor",
+      "id":"9450528562"
+   },
+   "967576352318427176":{
+      "name":"Something Different (feat. Talurre)",
+      "artist":"Derpcat",
+      "id":"9450506237"
+   },
+   "967576335746748516":{
+      "name":"Challenger",
+      "artist":"Creo",
+      "id":"9450482984"
+   },
+   "967576320865370172":{
+      "name":"Machine Politics",
+      "artist":"Waterflame",
+      "id":"9450467456"
+   },
+   "967576304071372870":{
+      "name":"I Like Your Face",
+      "artist":"Xtrullor",
+      "id":"9450454180"
+   },
+   "967576285561913385":{
+      "name":"Supernova",
+      "artist":"Xtrullor",
+      "id":"9450432855"
+   },
+   "967576268872777809":{
+      "name":"Deluding Beats (Deludebeats 2021 Vast Album Remake)",
+      "artist":"Waterflame",
+      "id":"9450420326"
+   },
+   "967576249193103410":{
+      "name":"Gray Morning",
+      "artist":"Waterflame",
+      "id":"9450394420"
+   },
+   "967576234345259018":{
+      "name":"inpeace ",
+      "artist":"Sewerslvt",
+      "id":"9450354912"
+   },
+   "967576197322145802":{
+      "name":"Authority",
+      "artist":"Xtrullor",
+      "id":"9450257089"
+   },
+   "967576177336283176":{
+      "name":"Sonic Blaster Remix",
+      "artist":"HJfod",
+      "id":"9450226659"
+   },
+   "967576155400073227":{
+      "name":"Exosphere",
+      "artist":"Creo",
+      "id":"9450201092"
+   },
+   "967576137033220107":{
+      "name":"Clutterfunk",
+      "artist":"Waterflame",
+      "id":"9450184809 (short version)"
+   },
+   "967576118926397471":{
+      "name":"Sphere",
+      "artist":"Creo",
+      "id":"9450130868"
+   },
+   "967576095425708073":{
+      "name":"Strikebeam (2005)",
+      "artist":"Waterflame",
+      "id":"9450104577"
+   },
+   "966662842470240306":{
+      "name":"Arcana",
+      "artist":"Xtrullor",
+      "id":"9427028828"
+   },
+   "966661369296482314":{
+      "name":"Wavelight",
+      "artist":"Creo",
+      "id":"9426994146"
+   },
+   "966640290578456586":{
+      "name":"Siege",
+      "artist":"krispykarim",
+      "id":"9426585756"
+   },
+   "966635086126657576":{
+      "name":"POLYBIUS GB SPEEDRUN",
+      "artist":"Camellia",
+      "id":"9426484895"
+   },
+   "966633923755008000":{
+      "name":"Crystallized",
+      "artist":"Camellia ",
+      "id":"9426465321"
+   },
+   "966632890593079296":{
+      "name":"Pain Engine (2021 - Remaster)",
+      "artist":"Waterflame",
+      "id":"9426445522"
+   },
+   "966484577197629482":{
+      "name":"Onoken",
+      "artist":"P8107",
+      "id":"9423821684"
+   },
+   "961772666660978749":{
+      "name":"Lights Camera Action",
+      "artist":"meganeko",
+      "id":"9296381637"
+   },
+   "961772625728770129":{
+      "name":"Gravitate",
+      "artist":"Creo",
+      "id":"9296263850"
+   },
+   "961318164837335061":{
+      "name":"Ninox",
+      "artist":"meganeko",
+      "id":"9296152193"
+   },
+   "961318127197630586":{
+      "name":"Slow Down",
+      "artist":"Creo",
+      "id":"9296137764"
+   },
+   "961318097879441488":{
+      "name":"Monsterbreaks",
+      "artist":"Waterflame",
+      "id":"9178794224"
+   },
+   "961074931754496050":{
+      "name":"The Yandere's Puppet Show - Breakbeat",
+      "artist":"Acid Notation",
+      "id":"9291828249"
+   },
+   "961073743348793434":{
+      "name":"Endgame",
+      "artist":"Waterflame",
+      "id":"9291805018"
+   },
+   "961068027938500698":{
+      "name":"Start Your Engines",
+      "artist":"Creo",
+      "id":"9291684800"
+   },
+   "961067000824758302":{
+      "name":"Arcade Punk (Instrumental mix)",
+      "artist":"Waterflame",
+      "id":"9291664404"
+   },
+   "961065572131545088":{
+      "name":"Malediction",
+      "artist":"Creo",
+      "id":"9291633623"
+   },
+   "960971387013587045":{
+      "name":"Umbra",
+      "artist":"Shirobon",
+      "id":"9289602496"
+   },
+   "960971365853327370":{
+      "name":"Power Trip",
+      "artist":"BoomKitty ",
+      "id":"9289593485"
+   },
+   "960971343598325830":{
+      "name":"Nostalgia",
+      "artist":"Shirobon",
+      "id":"9289543570"
+   },
+   "960971321494347946":{
+      "name":"Electroman Adventures",
+      "artist":"Waterflame",
+      "id":"9289536589"
+   },
+   "960971301625954395":{
+      "name":"We Can Dream",
+      "artist":"Creo",
+      "id":"9289514241"
+   },
+   "960971278829903932":{
+      "name":"Into the Light",
+      "artist":"NK",
+      "id":"9289492284"
+   },
+   "960971258059702332":{
+      "name":"Dimension",
+      "artist":"Creo",
+      "id":"9289470366"
+   },
+   "960971234617749505":{
+      "name":"Rivals",
+      "artist":"Creo",
+      "id":"9289443061"
+   },
+   "960971216313810944":{
+      "name":"Last Battle Remix (Cavestory) - Hardcore",
+      "artist":"Acid Notation",
+      "id":"9289426334"
+   },
+   "960971189327654912":{
+      "name":"Mind Pulse",
+      "artist":"meganeko + Shirobon",
+      "id":"9289405750"
+   },
+   "960971166586126338":{
+      "name":"FOX",
+      "artist":"Shirobon",
+      "id":"9289384300"
+   },
+   "960958920472559686":{
+      "name":"Crystallize",
+      "artist":"Creo",
+      "id":"9289323159"
+   },
+   "960958899274518529":{
+      "name":"Armageddon (LeaF Remix)",
+      "artist":"ZUN",
+      "id":"9289285636"
+   },
+   "960958881423581314":{
+      "name":"Radioactive",
+      "artist":"Waterflame",
+      "id":"9289262299"
+   },
+   "960958859260862485":{
+      "name":"Oversphere",
+      "artist":"MADB0SS",
+      "id":"9289251781"
+   },
+   "960958834841645096":{
+      "name":"Octagon Force",
+      "artist":"Waterflame",
+      "id":"9289226738"
+   },
+   "960958809893920848":{
+      "name":"Hexagon Force",
+      "artist":"Waterflame",
+      "id":"9289212780"
+   },
+   "960958787651534958":{
+      "name":"Halcyon",
+      "artist":"Creo",
+      "id":"9289042361"
+   },
+   "960958759742603314":{
+      "name":"Phantasm",
+      "artist":"Creo",
+      "id":"9289016925"
+   },
+   "951815102162690068":{
+      "name":"δ : for the DELTA",
+      "artist":"Camellia",
+      "id":"9068214462"
+   }
+}
