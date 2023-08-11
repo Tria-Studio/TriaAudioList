@@ -1709,9 +1709,89 @@
       "artist":"Camellia",
       "id":14099885886
    },
-   "342":{
+   "343":{
       "name":"Nirvana (BinaryHeaven Remix) (feat. ЯIRE)",
+      "artist":"KORAII",
+      "id":14113082098
+   },
+   "344":{
+      "name":"Nova Machina",
       "artist":"Camellia   ",
       "id":14099929106
+   },
+   "345":{
+      "name":"Scourge of The Universe (cut)",
+      "artist":"DM DOKURO",
+      "id":14113098190
+   },
+   "346":{
+      "name":"Paradise on E (remix)",
+      "artist":"apimusic",
+      "id":14113112612
+   },
+   "347":{
+      "name":"Red Haze",
+      "artist":"Creo",
+      "id":14113152339
+   },
+   "348":{
+      "name":"Memento Mori",
+      "artist":"Mudeth",
+      "id":14143830789
+   },
+   "349":{
+      "name":"Raw, Unfiltered Calamity",
+      "artist":"DM DOKURO",
+      "id":14143890637
+   },
+   "350":{
+      "name":"Journey To The Middle Ages",
+      "artist":"Alex Richstein",
+      "id":14143908671
+   },
+   "351":{
+      "name":"Chaoz Fantasy",
+      "artist":"ParagonX9",
+      "id":14143931164
+   },
+   "352":{
+      "name":"HyperioxX",
+      "artist":"ParagonX9",
+      "id":14143948350
+   },
+   "353":{
+      "name":"Ballistic Funk",
+      "artist":"Creo",
+      "id":14143964871
+   },
+   "354":{
+      "name":"Anstrv",
+      "artist":"BrayanKitsn",
+      "id":14144038594
+   },
+   "355":{
+      "name":"Frontlines (cut)",
+      "artist":"Dex Arson",
+      "id":14144071988
+   },
+   "356":{
+      "name":"Purgatori",
+      "artist":"KORAII",
+      "id":14144139631
+   },
+   "357":{
+      "name":"Valley of Voices (cut)",
+      "artist":"Kara & Kurokotei",
+      "id":14144165737
+   },
+   "358":{
+      "name":"Jolly Roger",
+      "artist":"Rocket Start",
+      "id":14144186311
+   },
+   "359":{
+      "name":"Demon Lord (offvocal)",
+      "artist":"Kanaria",
+      "id":14145520381
    }
 }
