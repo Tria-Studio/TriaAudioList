@@ -1888,5 +1888,85 @@
       "name":"After Flashbacks (ost)",
       "artist":"Sese",
       "id":14397332281
+   },
+   "379":{
+      "name":"Terror",
+      "artist":"We Are Magonia",
+      "id":15308765297
+   },
+   "380":{
+      "name":"Shuriken",
+      "artist":"Panda Eyes & Fyer",
+      "id":15308782913
+   },
+   "381":{
+      "name":"deltaMAX",
+      "artist":"DM Ashura",
+      "id":15308805960
+   },
+   "382":{
+      "name":"Enigma (cut)",
+      "artist":"Creo",
+      "id":15308814256
+   },
+   "383":{
+      "name":"Unstable Geometry",
+      "artist":"Waterflame",
+      "id":15308826422
+   },
+   "384":{
+      "name":"Classic Pursuit",
+      "artist":"cYsmix",
+      "id":15308843075
+   },
+   "385":{
+      "name":"Chaoz Impact",
+      "artist":"ParagonX9",
+      "id":15308862950
+   },
+   "386":{
+      "name":"Betrayal of Fiction",
+      "artist":"X-ManOfficial",
+      "id":15308875088
+   },
+   "387":{
+      "name":"Polar 240",
+      "artist":"ParagonX9",
+      "id":15308896701
+   },
+   "388":{
+      "name":"Lapis Lazuli",
+      "artist":"BlissfulFire",
+      "id":15308907141
+   },
+   "389":{
+      "name":"The Shredder",
+      "artist":"Waterflame",
+      "id":15308920886
+   },
+   "390":{
+      "name":"Enroaching Dark",
+      "artist":"KORAII",
+      "id":15308941873
+   },
+   "391":{
+      "name":"Bermuda Δ Triangle (feat. The8BitDrummer)",
+      "artist":"Camellia",
+      "id":15308973826
+   },
+   "392":{
+      "name":"Phobos",
+      "artist":"Solkrieg",
+      "id":15308984649
+   },
+   "393":{
+      "name":"bubble soap (redeilia remix)",
+      "artist":"curryrice",
+      "id":15309004561
+   },
+   "394":{
+      "name":"gur yvsr",
+      "artist":"Frums",
+      "id":15309040224
    }
 }
