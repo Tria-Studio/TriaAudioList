@@ -2363,5 +2363,600 @@
         "name":"Monolith",
         "artist":"Meganeko",
         "id":17201600275
+    },
+    "474":{
+        "name":"Awakening",
+        "artist":"Spaze",
+        "id":17394809536
+    },
+    "475":{
+        "name":"Angel Island",
+        "artist":"PaulyBFromDa303",
+        "id":17395240956
+    },
+    "476":{
+        "name":"swallow SMOKE",
+        "artist":"Frums",
+        "id":16296344637 
+    },
+    "477":{
+        "name":"The Filty Mind",
+        "artist":"DM DOKURO",
+        "id":105069150718139
+    },
+    "478":{
+        "name":"Cosmic Disgust",
+        "artist":"DM DOKURO",
+        "id":117810270927053
+    },
+    "479":{
+        "name":"Pest of the Cosmos",
+        "artist":"DM DOKURO",
+        "id":72641337999799
+    },
+    "480":{
+        "name":"Interstellar Stomper",
+        "artist":"DM DOKURO",
+        "id":120235825400402
+    },
+    "481":{
+        "name":"Return To Slime",
+        "artist":"DM DOKURO",
+        "id":128520172326809
+    },
+    "482":{
+        "name":"Open Frenzy",
+        "artist":"DM DOKURO",
+        "id":117919898562814
+    },
+    "483":{
+        "name":"Unholy Insurgency",
+        "artist":"DM DOKURO",
+        "id":122082001994582
+    },
+    "484":{
+        "name":"Feral Amalgamation",
+        "artist":"DM DOKURO",
+        "id":103942376099970
+    },
+    "485":{
+        "name":"Outcast of the Sulphurous Seas",
+        "artist":"DM DOKURO",
+        "id":76638479072561
+    },
+    "486":{
+        "name":"Vani, The Blood Cleric",
+        "artist":"Dutonic",
+        "id":102902340031890
+    },
+    "487":{
+        "name":"Assembly Hell Line (cut)",
+        "artist":"Vandoorea",
+        "id":18999742707
+    },
+    "488":{
+        "name":"Up In My Jam (All Of A Sudden)",
+        "artist":"Kubbi",
+        "id":18994405542
+    },
+    "489":{
+        "name":"Time Machine (Spooky Mix)",
+        "artist":"Waterflame",
+        "id":18995006468
+    },
+    "490":{
+        "name":"Dimrain47",
+        "artist":"Surface",
+        "id":18998316780
+    },
+    "491":{
+        "name":"Steel Terror (original mix) (cut)",
+        "artist":"Acid-Notation",
+        "id":19001817390
+    },
+    "492":{
+        "name":"Roblox OST 1",
+        "artist":"SpeedySeat",
+        "id":134786313171346
+    },
+    "493":{
+        "name":"Street Party",
+        "artist":"Tim Haywood",
+        "id":116984523126776
+    },
+    "494":{
+        "name":"You Will Be Perfect (remix)",
+        "artist":"Vandoorea",
+        "id":80347153092462
+    },
+    "495":{
+        "name":"Geometric Labyrinth OST",
+        "artist":"robloxpies",
+        "id":78093704363461
+    },
+    "496":{
+        "name":"Azure Apex",
+        "artist":"OcularNebula",
+        "id":111090152978295
+    },
+    "497":{
+        "name":"Perilous Springs OST",
+        "artist":"RYalbern",
+        "id":131155251511778
+    },
+    "498":{
+        "name":"Frozen Settlement OST",
+        "artist":"LemmyLada",
+        "id":124535418340811
+    },
+    "499":{
+        "name":"Lushette OST",
+        "artist":"LemmyLada",
+        "id":72333306281729
+    },
+    "501":{
+        "name":"Rocket",
+        "artist":"Kevin MacLeod",
+        "id":71633485347712
+    },
+    "502":{
+        "name":"GOODTEK",
+        "artist":"EMIBAYO",
+        "id":85595683576822
+    },
+    "503":{
+        "name":"Regain Control",
+        "artist":"Shirobon",
+        "id":111523750264444
+    },
+    "504":{
+        "name":"Holy War",
+        "artist":"Boom Kitty",
+        "id":109919722516299
+    },
+    "505":{
+        "name":"Boss Theme Remix (KRtD)",
+        "artist":"Acid Notation",
+        "id":86663738016977
+    },
+    "506":{
+        "name":"Cyber Party (ft Radix)",
+        "artist":"Shirobon",
+        "id":113163877688787
+    },
+    "507":{
+        "name":"Electric Boogieloo OST",
+        "artist":"thundershocker1",
+        "id":103868777093046
+    },
+    "508":{
+        "name":"Forsaken Neon",
+        "artist":"Dimrain47",
+        "id":96243681308079
+    },
+    "509":{
+        "name":"Cascade (cut)",
+        "artist":"Kubbi",
+        "id":93373997859215
+    },
+    "510":{
+        "name":"Riccochet Love",
+        "artist":"Waterflame",
+        "id":140340874062581
+    },
+    "511":{
+        "name":"Jumper (Extended)",
+        "artist":"Waterflame",
+        "id":86193084408359
+    },
+    "512":{
+        "name":"Conclusion",
+        "artist":"Waterflame",
+        "id":123091586525749
+    },
+    "513":{
+        "name":"Assembly Hell Line (alternate cut)",
+        "artist":"Vandoorea",
+        "id":135076644313353
+    },
+    "514":{
+        "name":"Sleet - Planet III (Mesosphere)",
+        "artist":"Kubbi",
+        "id":71568392144799
+    },
+    "515":{
+        "name":"Candles and Clockwork (alpha version)",
+        "artist":"Homestuck",
+        "id":81572826666979
+    },
+    "516":{
+        "name":"ASSAULT",
+        "artist":"Homestuck",
+        "id":127011802044207
+    },
+    "517":{
+        "name":"Lovesickness",
+        "artist":"SOUNDORBIS",
+        "id":122374569016515
+    },
+    "518":{
+        "name":"Dynamic Radar",
+        "artist":"Klubz Productions",
+        "id":84421836204838
+    },
+    "519":{
+        "name":"Spatial Terminal OST",
+        "artist":"LifesASkit",
+        "id":84686571377576
+    },
+    "520":{
+        "name":"Moonlight Sonata (1st Mov.) (meganeko remix) (cut)",
+        "artist":"Beethoven",
+        "id":87441248586087
+    },
+    "521":{
+        "name":"KillerBeast (slowed, pitch shifted)",
+        "artist":"Camellia",
+        "id":94563118064409
+    },
+    "522":{
+        "name":"Lighthouse OST",
+        "artist":"DominoContributing",
+        "id":112922497299727
+    },
+    "523":{
+        "name":"Let them eat Lead",
+        "artist":"Tim Haywood",
+        "id":82925250300650
+    },
+    "524":{
+        "name":"Slider (Super Mario 64)",
+        "artist":"Qumu",
+        "id":73058186591050
+    },
+    "525":{
+        "name":"Area Zero but it's a depressive piano song",
+        "artist":"Zame",
+        "id":129487591390587
+    },
+    "526":{
+        "name":"Collapsing Time Rift (Robotic Wisp remix)",
+        "artist":"A Hat in Time OST",
+        "id":80861605949546
+    },
+    "527":{
+        "name":"PotatOS Lament (Vandoorea remix)",
+        "artist":"Portal 2",
+        "id":126096582201895
+    },
+    "528":{
+        "name":"The Abyss of Secrets (cut)",
+        "artist":"Azure",
+        "id":134978828129058
+    },
+    "529":{
+        "name":"Dark Skies",
+        "artist":"MaestroRage",
+        "id":120733314309407
+    },
+    "530":{
+        "name":"Unfinished Business",
+        "artist":"TimothyTCB",
+        "id":92597462235122
+    },
+    "532":{
+        "name":"Jungle Day",
+        "artist":"Terraria",
+        "id":121357065243153
+    },
+    "533":{
+        "name":"Cycles (2015 Edition)",
+        "artist":"DJVI",
+        "id":74793180686199
+    },
+    "534":{
+        "name":"Hadopelagic Pressure",
+        "artist":"Terraria Calamity Mod",
+        "id":134076773844468
+    },
+    "535":{
+        "name":"Electroman Adventures V2",
+        "artist":"Waterflame",
+        "id":127917643472480
+    },
+    "536":{
+        "name":"The Devil's Requiem",
+        "artist":"thundershocker1",
+        "id":83110311231478
+    },
+    "537":{
+        "name":"Relentless (cut)",
+        "artist":"Waterflame",
+        "id":119072220231576
+    },
+    "538":{
+        "name":"Chronos",
+        "artist":"Danimal Cannon & Zef",
+        "id":101805455250542
+    },
+    "539":{
+        "name":"Aquatic Depths",
+        "artist":"Terraria Thorium Mod",
+        "id":94371566866846
+    },
+    "540":{
+        "name":"BattleTown (cut)",
+        "artist":"Waterflame",
+        "id":89485356787667
+    },
+    "541":{
+        "name":"Run!",
+        "artist":"Waterflame",
+        "id":73434239270222
+    },
+    "542":{
+        "name":"Viking Arena",
+        "artist":"F-777",
+        "id":118364252726395
+    },
+    "543":{
+        "name":"Area Zero (Remix)",
+        "artist":"Zame",
+        "id":113956997625812
+    },
+    "544":{
+        "name":"Merciful",
+        "artist":"DM DOKURO",
+        "id":131473204004712
+    },
+    "545":{
+        "name":"Dense Swamp OST",
+        "artist":"EianRB & ALP",
+        "id":133693084779467
+    },
+    "546":{
+        "name":"Fiesta Plaza OST",
+        "artist":"LifesASkit",
+        "id":80565174666795
+    },
+    "547":{
+        "name":"Jungle Marsh OST",
+        "artist":"SalPotGuy",
+        "id":76581868606554
+    },
+    "548":{
+        "name":"Macabre Manor OST",
+        "artist":"Railes",
+        "id":108876245676745
+    },
+    "549":{
+        "name":"Merciful Jungle OST",
+        "artist":"SalPotGuy",
+        "id":128961707392323
+    },
+    "550":{
+        "name":"Omitted Ruins OST",
+        "artist":"SalPotGuy",
+        "id":76602496200990
+    },
+    "551":{
+        "name":"Verdurous Woods OST",
+        "artist":"Kroons",
+        "id":108186994648191
+    },
+    "552":{
+        "name":"Wild Skatepark OST",
+        "artist":"Axmatt_DEV",
+        "id":133167659589167
+    },
+    "553":{
+        "name":"Shutdown OST (old)",
+        "artist":"thundershocker1",
+        "id":70749328043651
+    },
+    "554":{
+        "name":"Arc North",
+        "artist":"First Light",
+        "id":82111872442356
+    },
+    "555":{
+        "name":"Boneyard (cut)",
+        "artist":"Waterflame",
+        "id":82811815825926
+    },
+    "556":{
+        "name":"Neon",
+        "artist":"Rolling Sky Soundtrack",
+        "id":113370939228569
+    },
+    "557":{
+        "name":"Sky Fortress",
+        "artist":"Waterflame",
+        "id":111541995509898
+    },
+    "558":{
+        "name":"Fresh Meat",
+        "artist":"GTA V Remixed OST",
+        "id":111351316440083
+    },
+    "559":{
+        "name":"Dark Sci-Facility (old)",
+        "artist":"Crazyblox",
+        "id":78809786746206
+    },
+    "560":{
+        "name":"SpeedBreaker",
+        "artist":"Djjaner",
+        "id":78413107789973
+    },
+    "561":{
+        "name":"Force of Nature",
+        "artist":"Crash Bandicoot: The Wrath of Cortex OST",
+        "id":119226128945596
+    },
+    "562":{
+        "name":"Final Dreadnought 4",
+        "artist":"Freedom Planet OST",
+        "id":121821052448304
+    },
+    "563":{
+        "name":"merciful (cut)",
+        "artist":"DM DOKURO vs. ferrofluid",
+        "id":117001812443136
+    },
+    "564":{
+        "name":"Finale (remaster)",
+        "artist":"Undertale",
+        "id":100414197143705
+    },
+    "565":{
+        "name":"Cows",
+        "artist":"Cyriak",
+        "id":93189121056667
+    },
+    "566":{
+        "name":"Illusive Nightmares",
+        "artist":"Below Cloud Nine",
+        "id":132373387611232
+    },
+    "567":{
+        "name":"Westnote",
+        "artist":"Waterflame",
+        "id":77283741742770
+    },
+    "568":{
+        "name":"Nuclear Fusion REDUX",
+        "artist":"SSJ3",
+        "id":83276129801755
+    },
+    "569":{
+        "name":"The Space Shrine Maiden Appears",
+        "artist":"ZUN",
+        "id":76789340348949
+    },
+    "570":{
+        "name":"Unwelcome School",
+        "artist":"Mitsukiyo (t+pazolite Remix)",
+        "id":71954772646483
+    },
+    "571":{
+        "name":"Marbl",
+        "artist":"Schtiffles",
+        "id":126553950920334
+    },
+    "572":{
+        "name":"Blacklight",
+        "artist":"NIGHTkilla ",
+        "id":103033112765987
+    },
+    "573":{
+        "name":"Infernoplex",
+        "artist":"Dimrain47",
+        "id":71811202065936
+    },
+    "574":{
+        "name":"Barbarian Invasion",
+        "artist":"Re-GZ",
+        "id":77428366320980
+    },
+    "575":{
+        "name":"Arcade Punk (vocals)",
+        "artist":"Waterflame",
+        "id":91352721351452
+    },
+    "576":{
+        "name":"Grizzly",
+        "artist":"Env",
+        "id":93690415034202
+    },
+    "577":{
+        "name":"Artificial Life (cut)",
+        "artist":"Pyroth",
+        "id":119957505070252
+    },
+    "578":{
+        "name":"Deep Sea OST",
+        "artist":"BrayanKitsn",
+        "id":82490356823243
+    },
+    "579":{
+        "name":"Thermal Base 2 (Sega Genesis Cover)",
+        "artist":"John \"Joy\" Tay",
+        "id":94123369512199
+    },
+    "580":{
+        "name":"Destination (cut)",
+        "artist":"2DPolygon",
+        "id":87723330057973
+    },
+    "581":{
+        "name":"Polygon (Ft. Reija) (cut)",
+        "artist":"ShockOne",
+        "id":101587829107615
+    },
+    "582":{
+        "name":"Cerebrawl - Lawn of Doom",
+        "artist":"Zombot1000Musician",
+        "id":90085038427819
+    },
+    "583":{
+        "name":"Mephiles",
+        "artist":"Sonic the Hedgehog 2006",
+        "id":136588472267395
+    },
+    "584":{
+        "name":"Vertigo System OST [V3]",
+        "artist":"DoctorQuartz",
+        "id":112641307236582
+    },
+    "585":{
+        "name":"Rose at Nightfall",
+        "artist":"Nemesis Theory",
+        "id":72757305706726 
+    },
+    "586":{
+        "name":"Overdrive OST",
+        "artist":"TerminatorJReal",
+        "id":95613027732528 
+    },
+    "587":{
+        "name":"Factory",
+        "artist":"Nightmarin",
+        "id":137199690501673
+    },
+    "588":{
+        "name":"Ghost Story",
+        "artist":"Kevin MacLeod",
+        "id":120899784683677
+    },
+    "589":{
+        "name":"Rocket Rider",
+        "artist":"Danny Baranowsky",
+        "id":105308488703002
+    },
+    "590":{
+        "name":"Aurea Carmina",
+        "artist":"Kevin MacLeod",
+        "id":114349604893816
+    },
+    "591":{
+        "name":"CXZ",
+        "artist":"Bunnymajs",
+        "id":88452857318213
+    },
+    "592":{
+        "name":"Furious",
+        "artist":"DuoCore",
+        "id":72935404340591
+    },
+    "593":{
+        "name":"At the Speed of Light",
+        "artist":"Dimrain47",
+        "id":97305209955010
+    },
+    "594":{
+        "name":"Idolize",
+        "artist":"Creo",
+        "id":99060314684272
     }
 }
